@@ -24,9 +24,8 @@ ssh git@github.com
 enter [yes], if the authentication does not establish. 
 
 Expected output:
-Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+Warning: Permanently added 'github.com' (????) to the list of known hosts.
 Hi [youraccount]! You've successfully authenticated, but GitHub does not provide shell access.
-
 
 ### Visual Studio
 ### CUDA  
