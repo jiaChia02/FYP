@@ -6,7 +6,7 @@
 ### CUDA  
 ### CUDNN 
 ### CMAKE
-
+### Virtual Environment 
 
 
 ## Object Detection 
