@@ -2,7 +2,7 @@
 ### Purpose: to create a Smart library system with (Just Walk Out) JWO  by implementing AI technology included object detection and human action recognition 
 
 ## Configuration 
-### Github
+### Github (Optional)
 #### Step 1: Right click on desktop and click on "Git Base Here"
 
 #### Step 2: To check the existance of .ssh file: cd ~/.ssh/
