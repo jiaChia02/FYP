@@ -6,16 +6,16 @@
 #### Step 1: Right click on desktop and click on "Git Base Here"
 
 #### Step 2: To check the existance of .ssh file: cd ~/.ssh/
-If the file does not exist then, create file: mkdir ~/.ssh
+1. If the file does not exist then, create file: mkdir ~/.ssh
 
 #### Step 3: To configure Github account: 
-git config --global user.name "youraccountname"
-git config --global user.name "youraccount@example.com"
+1. git config --global user.name "youraccountname"
+2. git config --global user.name "youraccount@example.com"
 
 #### Step 4: To generate and add ssh key
-ssh-keygen -t rsa -C "youracount@example.com"
+1. ssh-keygen -t rsa -C "youracount@example.com"
 
-cat ~/.ssh/id_rsa.pub 
+3. cat ~/.ssh/id_rsa.pub 
 a. copy all content start from ssh-rsa ....... until youraccount@example.com"
 b. add them in the "SSH and GPG keys" --> "New SSH key" -->  authentication key
 
@@ -44,6 +44,8 @@ CUDA Documentation --> C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA
 Sample --> C:\ProogramData\NVIDIA Corporating
 
 ### CMAKE
+C:\Program Files\CMake\
+
 ### Virtual Environment 
 
 
