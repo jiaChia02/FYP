@@ -27,10 +27,7 @@ Expected output:
 Warning: Permanently added 'github.com' (????) to the list of known hosts.
 Hi [youraccount]! You've successfully authenticated, but GitHub does not provide shell access.
 
-### Visual Studio
-
-
-### CUDA  
+## CUDA  
 1. check cuda version which is compatible to your hardware and OS
 2. Download CUDA and install in your device: https://developer.nvidia.com/cuda-toolkit-archive
 
@@ -46,10 +43,6 @@ Sample --> C:\ProogramData\NVIDIA Corporating
 ### CMAKE
 C:\Program Files\CMake\
 
-### Virtual Environment 
+## Virtual Environment 
 
-
-## Object Detection 
-
-## Human Action Recognition 
 
